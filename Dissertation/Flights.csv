@@ -1,0 +1,15 @@
+Activity,Haul,Class,Unit,kg CO2e,kg CO2,kg CH4,kg N2O
+Flights,Domestic,Average,passenger.km,0.2443,0.24298,0.00011,0.00121
+Flights,Short-haul,Average,passenger.km,0.15553,0.15475,0.00001,0.00077
+Flights,Short-haul,Economy,passenger.km,0.15298,0.15221,0.00001,0.00076
+Flights,Short-haul,Business,passenger.km,0.22947,0.22832,0.00001,0.00114
+Flights,Long-haul,Average,passenger.km,0.19085,0.18989,0.00001,0.00095
+Flights,Long-haul,Economy,passenger.km,0.14615,0.14542,0.00001,0.00072
+Flights,Long-haul,Premium economy,passenger.km,0.23385,0.23268,0.00001,0.00116
+Flights,Long-haul,Business,passenger.km,0.42385,0.42173,0.00002,0.0021
+Flights,Long-haul,First class,passenger.km,0.58462,0.5817,0.00002,0.0029
+Flights,International,Average,passenger.km,0.18181,0.1809,0.00001,0.0009
+Flights,International,Economy,passenger.km,0.1392452,0.13855,0.0000052,0.00069
+Flights,International,Premium economy,passenger.km,0.22278,0.22167,0.00001,0.0011
+Flights,International,Business,passenger.km,0.40379,0.40177,0.00002,0.002
+Flights,International,First class,passenger.km,0.55695,0.55417,0.00002,0.00276
